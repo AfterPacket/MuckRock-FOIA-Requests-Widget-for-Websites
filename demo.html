@@ -1,7 +1,7 @@
 <div id="muckrock-widget">
   <script>
 const username = 'TheJ'; // Replace with the username of the user whose FOIA requests you want to display
-const corsProxyUrl = 'https://cors-anywhere.herokuapp.com/';
+const corsProxyUrl = 'https://api.codetabs.com/v1/proxy/?quest=';
 const apiUrl = `https://www.muckrock.com/api_v1/foia/?user=${username}&title=&status=&embargo=unknown&jurisdiction=&agency=&projects=&tags=&has_datetime_submitted=unknown&has_datetime_done=unknown&ordering=-datetime_submitted`;
 fetch(corsProxyUrl + apiUrl)
   .then(response => {
