@@ -8,6 +8,10 @@ Fetches requests for a specified user using the MuckRock API
 Easy to embed in any HTML page
 Fully customizable using CSS
 
+Restrictions:
+Requires https://cors-anywhere.herokuapp.com/corsdemo
+
+
 TODO:
 
 MOBILE Support ? 
