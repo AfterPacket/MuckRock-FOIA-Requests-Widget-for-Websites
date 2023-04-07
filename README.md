@@ -9,7 +9,7 @@ Easy to embed in any HTML page
 Fully customizable using CSS
 
 Restrictions:
-Requires https://cors-anywhere.herokuapp.com/corsdemo
+Requires https://api.codetabs.com/v1/proxy/?quest=
 
 
 TODO:
