@@ -7,6 +7,12 @@ Displays FOIA requests from MuckRock.com in a list format
 Fetches requests for a specified user using the MuckRock API
 Easy to embed in any HTML page
 Fully customizable using CSS
+
+TODO:
+
+MOBILE Support ? 
+
+
 Live Demo
 You can view a live demo of the widget at https://Jordan.Lassiter.eu. The demo displays FOIA requests for the MuckRock user "TheJ".
 
